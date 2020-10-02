@@ -22,8 +22,10 @@ This is a FREE flying wings game where you have to keep the tiny bird flying wit
 
 ## Screenshots 
 
+             |  
+:-------------------------:|:-------------------------:
 ![Screenshot_2](https://res.cloudinary.com/vikcloud/image/upload/v1601617257/Screenshot_20201002-110642_Flappy_Bird_eirkki.png)
-![Screenshot_1](https://res.cloudinary.com/vikcloud/image/upload/v1601617257/Screenshot_20201002-110704_Flappy_Bird_kkisn4.png)   |       
+  |  ![Screenshot_1](https://res.cloudinary.com/vikcloud/image/upload/v1601617257/Screenshot_20201002-110704_Flappy_Bird_kkisn4.png)   |       
 
 ## Download
 [APK FILE](https://drive.google.com/file/d/14dsFCKjh0S1PcRY1VcyyiPff-gIZOr53/view?usp=sharing)
