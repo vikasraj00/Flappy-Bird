@@ -8,7 +8,7 @@ Tap to keep the little birdie flapping its tiny wings. Keep the little birdie fl
 
 This is a FREE flying wings game where you have to keep the tiny bird flying without touching the obstacles or falling down. It’s pretty challenging to play but it’s so addictive and fun! Could you help this cute little twitty bird to stay flying through this dangerous zone? You decide! Flying Bird is the FREE fun flapping game that you’ve been waiting for.
 
-## FEATURES
+## Features
 
   - Tap the screen to keep the tweety bird flapping its tiny wings.
   - Letting go means the little birdie will going down.
@@ -22,10 +22,9 @@ This is a FREE flying wings game where you have to keep the tiny bird flying wit
 
 ## Screenshots 
 
-             |  
-:-------------------------:|:-------------------------:
-![Screenshot_2](https://res.cloudinary.com/vikcloud/image/upload/v1601617257/Screenshot_20201002-110642_Flappy_Bird_eirkki.png)
-  |  ![Screenshot_1](https://res.cloudinary.com/vikcloud/image/upload/v1601617257/Screenshot_20201002-110704_Flappy_Bird_kkisn4.png)   |       
-
-## Download
-[APK FILE](https://drive.google.com/file/d/14dsFCKjh0S1PcRY1VcyyiPff-gIZOr53/view?usp=sharing)
+<div>
+  <p>
+    <img src="https://res.cloudinary.com/vikcloud/image/upload/v1601617257/Screenshot_20201002-110704_Flappy_Bird_kkisn4.png" align="left" width="400" />
+    <img src="https://res.cloudinary.com/vikcloud/image/upload/v1601617257/Screenshot_20201002-110642_Flappy_Bird_eirkki.png" align="right" width="400" />
+  </p>
+</div>
