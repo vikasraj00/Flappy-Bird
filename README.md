@@ -1,9 +1,5 @@
 # Flappy-Bird
 
-  An android game made in Unity
-  
-## Description
-
 Tap to keep the little birdie flapping its tiny wings. Keep the little birdie flapping its tiny wings by tapping on your phone screen! Don’t let the tweety bird falls down or touch the pipes.
 
 This is a FREE flying wings game where you have to keep the tiny bird flying without touching the obstacles or falling down. It’s pretty challenging to play but it’s so addictive and fun! Could you help this cute little twitty bird to stay flying through this dangerous zone? You decide! Flying Bird is the FREE fun flapping game that you’ve been waiting for.
