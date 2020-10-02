@@ -6,13 +6,13 @@ This is a FREE flying wings game where you have to keep the tiny bird flying wit
 
 ## Features
 
-  - Tap the screen to keep the tweety bird flapping its tiny wings.
+  - Tap the screen to keep the tweety bird flapping it's tiny wings.
   - Letting go means the little birdie will going down.
   - Avoid touching the pipe.
   - Keep playing until you fall or die.
   - Challenging, addictive, flapper game for all ages.
   - Cute, tweety bird character with simple game design
-  - Try got high score to stay on top LeaderBoard.
+  - Try got high score to stay on top Leaderboard.
   - Tap to screen and try flap bird through pipes.
 
 ## Screenshots 
