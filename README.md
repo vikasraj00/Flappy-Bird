@@ -11,9 +11,8 @@ This is a FREE flying wings game where you have to keep the tiny bird flying wit
   - Avoid touching the pipe.
   - Keep playing until you fall or die.
   - Challenging, addictive, flapper game for all ages.
-  - Cute, tweety bird character with colorful game design
-  - Try got high score to stay on top Google LeaderBoard.
-  - Choose red bird, blue bird, green bird or another color which you like from Bird Shop.
+  - Cute, tweety bird character with simple game design
+  - Try got high score to stay on top LeaderBoard.
   - Tap to screen and try flap bird through pipes.
 
 ## Screenshots 
